@@ -30,7 +30,10 @@ Many problems are emerging in Korea. To solve these problems, we show you what k
     2.covid/Project
 
 .. toctree:: 
-    :caption: What kind of robot should be made to respond to Korea's entrance exam education?
+    :caption: | 
+    
+        What kind of robot should be made to respond to 
+        Korea's entrance exam education?
     :maxdepth: 1
     :hidden:
     :titlesonly: 
