@@ -3,8 +3,6 @@ Introduction
 
 
 .. thumbnail:: /_images/education/map1.png
-
-.. thumbnail:: /_images/education/sim2.png
 |
 
 .. raw:: html
