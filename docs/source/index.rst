@@ -25,7 +25,9 @@ Many problems are emerging in Korea. To solve these problems, we show you what k
     :hidden:
     :titlesonly: 
 
-    2.covid/index
+    2.covid/past/index
+    2.covid/Mission
+    2.covid/Project
 
 .. toctree:: 
     :caption: What kind of robot should be made to respond to Korea's entrance exam education?
