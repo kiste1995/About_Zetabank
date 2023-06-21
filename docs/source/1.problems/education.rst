@@ -1,4 +1,4 @@
-Issue 2 : The problem of Education in Korea
+Issue 2 : Education in Korea
 ====================================================
 
 

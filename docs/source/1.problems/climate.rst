@@ -1,4 +1,4 @@
-Issue 4: The problem of the Climate crisis
+Issue 4: Climate crisis
 ====================================================
 
 

@@ -1,4 +1,4 @@
-Issue 1 : Problems in the field of COVID-19
+Issue 1 : Problems of COVID-19
 ====================================================
 
 
