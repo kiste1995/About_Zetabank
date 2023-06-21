@@ -2,4 +2,4 @@ Issue 2 : Education in Korea
 ====================================================
 
 
-.. thumbnail:: /_images/problems/shortage1.png
+.. thumbnail:: /_images/problems/education.png
