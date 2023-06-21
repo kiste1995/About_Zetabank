@@ -15,9 +15,9 @@ Many problems are emerging in Korea. To solve these problems, we show you what k
     :titlesonly: 
 
     1.problems/covid
-    2.problems/education
-    3.problems/shortage
-    4.problems/climate
+    1.problems/education
+    1.problems/shortage
+    1.problems/climate
 
 .. toctree:: 
     :caption: What robots should we build with covid 19?
