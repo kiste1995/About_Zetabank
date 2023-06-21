@@ -1,37 +1,47 @@
-ZetaBank Robot
+ZetaBank's Future
 ===================
 
 
-Welcome! This is a place to introduce Zeta Bank's robot!
+Many problems are emerging in Korea. To solve these problems, we show you what kind of future ZetaBank is drawing.
 
 .. thumbnail:: /_images/robot/robot.png
       :width: 800
       :height: 500
 
-.. raw:: html
-
-    <div>
-        <h2>Zetabank's mobile collaborative robot</h2>
-    </div>
-
-Model I - It is a mobile collaborative robot that combines a movable driving unit and a robot arm. It has dry disinfection and wet disinfection functions.
-
 .. toctree:: 
-    :caption: Model I - Mobile collaborative robot
+    :caption: Problems
     :maxdepth: 1
     :hidden:
     :titlesonly: 
 
-    0.intro/introduction
-    0.intro/parts
+    1.problems/covid
+    2.problems/education
+    3.problems/shortage
+    4.problems/climate
 
 .. toctree:: 
-    :maxdepth: 5
+    :caption: What robots should we build with covid 19?
+    :maxdepth: 1
     :hidden:
-    :caption: Robot Functions
+    :titlesonly: 
 
-    operate/gui/index
-    operate/autorun/index
+    2.covid/index
+
+.. toctree:: 
+    :caption: What kind of robot should be made to respond to Korea's entrance exam education?
+    :maxdepth: 1
+    :hidden:
+    :titlesonly: 
+
+    3.education/index
+
+.. toctree:: 
+    :caption: What kind of robots should be made to solve the labor shortage due to the low birth rate?
+    :maxdepth: 1
+    :hidden:
+    :titlesonly: 
+
+    4.shortage/index
 
 
 
