@@ -20,7 +20,9 @@ Many problems are emerging in Korea. To solve these problems, we show you what k
     1.problems/climate
 
 .. toctree:: 
-    :caption: What robots should we build with covid 19?
+    :caption: |
+        What robots 
+        should we build with covid 19?
     :maxdepth: 1
     :hidden:
     :titlesonly: 
