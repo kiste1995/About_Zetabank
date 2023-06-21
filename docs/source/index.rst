@@ -31,7 +31,7 @@ Korea is facing many problems. Introducing what ZetaBank is preparing and what k
     2.covid/Project
 
 .. toctree:: 
-    :caption: What kind of robot should be made to respond to Korea's entrance exam education?
+    :caption: Robots for Education
     :maxdepth: 1
     :hidden:
     :titlesonly: 
@@ -42,7 +42,7 @@ Korea is facing many problems. Introducing what ZetaBank is preparing and what k
     3.education/Project
     
 .. toctree:: 
-    :caption: What kind of robots should be made to solve the labor shortage due to the low birth rate?
+    :caption: Robots for labor shortage
     :maxdepth: 1
     :hidden:
     :titlesonly: 
