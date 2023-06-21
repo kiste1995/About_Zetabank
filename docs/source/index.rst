@@ -1,8 +1,8 @@
-ZetaBank's Future
+A picture drawn by ZetaBank
 ===================
 
 
-Many problems are emerging in Korea. To solve these problems, we show you what kind of future ZetaBank is drawing.
+Many problems are emerging in Korea. Introducing what ZetaBank is preparing and what kind of future it envisions to solve the problems it faces.
 
 .. thumbnail:: /_images/robot/robot.png
       :width: 800
