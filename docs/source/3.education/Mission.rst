@@ -28,7 +28,7 @@ For our navigation mission, we we hold a cooperative mission with other teams.
 
 
 Mapping the Constructed Map
-----------------------------------------------
+-----------------------------------------------
 
 Place the Zetabot on the starting location of the map. 
 
