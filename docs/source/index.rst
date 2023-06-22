@@ -1,4 +1,4 @@
-A picture drawn by ZetaBank
+Education for problem solving
 ===================
 
 
