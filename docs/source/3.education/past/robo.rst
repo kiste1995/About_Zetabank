@@ -8,9 +8,9 @@
 
 **Model D:** 
 
-.. thumbnail:: /_images/education/modelD.PNG
+.. thumbnail:: /_images/education/modelD2.PNG
 |
 
 **Model I:** 
 
-.. thumbnail:: /_images/education/modelI.PNG
+.. thumbnail:: /_images/education/modelI3.PNG
