@@ -3,11 +3,16 @@ Introduction
 
 
 .. thumbnail:: /_images/shortage/intro.png
-    
+
 .. thumbnail:: /_images/shortage/polar.png
       :width: 600
       :height: 600
-|
+
+.. raw:: html
+
+    <div>
+        <h2>What kind of robots should be made in a reality where manpower problems are occurring due to low birth rates?</h2>
+    </div>
 
 South Korea is currently facing a serious labor shortage due to the low birth rate.
 

@@ -3,9 +3,8 @@ Introduction
 
 
 .. thumbnail:: /_images/education/edu.png
-    
+
 .. thumbnail:: /_images/education/edu2.png
-|
 
 .. raw:: html
 
