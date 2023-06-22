@@ -3,7 +3,7 @@ Introduction
 
 
 .. thumbnail:: /_images/shortage/intro.png
-|
+    
 .. thumbnail:: /_images/shortage/polar.png
       :width: 600
       :height: 600
