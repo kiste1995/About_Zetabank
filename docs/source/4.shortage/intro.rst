@@ -1,6 +1,10 @@
 Introduction
 ====================================================
 
+
+.. thumbnail:: /_images/shortage/intro.png
+|
+
 South Korea is currently facing a serious labor shortage due to the low birth rate.
 
 Due to the aging population, the proportion of service workers will inevitably increase.
