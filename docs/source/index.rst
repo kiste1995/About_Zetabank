@@ -8,13 +8,13 @@ Korea is facing many problems. Introducing what ZetaBank is preparing and what k
       :width: 800
       :height: 500
 
-.. thumbnail:: /_images/robot/robot2.png
+.. thumbnail:: /_images/robot/robot2.jpg
 
-.. thumbnail:: /_images/robot/robot3.png
+.. thumbnail:: /_images/robot/robot3.jpg
 
-.. thumbnail:: /_images/robot/robot4.png
+.. thumbnail:: /_images/robot/robot4.jpg
 
-.. thumbnail:: /_images/robot/robot5.png
+.. thumbnail:: /_images/robot/robot5.jpg
 
 .. toctree:: 
     :caption: Problems
