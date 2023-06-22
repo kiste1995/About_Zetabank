@@ -2,7 +2,7 @@ Introduction
 ====================================================
 
 
-.. thumbnail:: /_images/education/map1.png
+.. thumbnail:: /_images/education/edu.png
 |
 
 .. raw:: html
