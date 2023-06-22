@@ -5,6 +5,8 @@ Introduction
 .. thumbnail:: /_images/shortage/intro.png
 |
 .. thumbnail:: /_images/shortage/polar.png
+      :width: 800
+      :height: 800
 |
 
 South Korea is currently facing a serious labor shortage due to the low birth rate.
