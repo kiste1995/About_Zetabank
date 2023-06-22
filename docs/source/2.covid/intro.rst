@@ -4,6 +4,8 @@ Introduction
 
 .. thumbnail:: /_images/covid/intro.png
 |
+.. thumbnail:: /_images/covid/covid.jpg
+|
 
 .. raw:: html
 
